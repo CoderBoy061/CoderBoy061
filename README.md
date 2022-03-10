@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CoderBoy061
+- 👋 Hi, I’m Debabrata Basak
 - 👀 I’m interested in Web Development
 - Former full stack developer intern at Listiee
 - Former React.js Developer intern at Humming Sparrow Digital Solution
 - Former React.js and Node.js Developer at Namasys Consultant LLP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ my email is - debabratabasak061@gmail.com and my contact number is - 8348708604
 - 📫 Contact Me throgh this website :  https://codewithdebabrata.netlify.app
 
 <!---
